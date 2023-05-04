@@ -1,0 +1,15 @@
+{
+  "name": "pro_node",
+  "version": "1.0.0",
+  "description": "practica de entrega",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "holaa"
+  ],
+  "author": "erik",
+  "license": "ISC"
+}
